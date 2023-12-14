@@ -4,7 +4,8 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <bean id="heBean" class="day01.Helloworld">
-        <property name="name" value="JV07 Java Class"/>
-    </bean>
+    <bean id="accountRepository" class="pojobeans.AccountRepositoryImpl"/>
+        <bean id="accountService" class="pojobeans.AccountServiceImpl">
+        <property name="accountRepository" ref="accountRepository"/>
+        </bean>
 </beans>

@@ -1,4 +1,4 @@
-package org.example;
+package day01;
 
 
 import org.springframework.context.ApplicationContext;

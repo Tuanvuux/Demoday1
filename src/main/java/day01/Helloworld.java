@@ -1,4 +1,4 @@
-package org.example;
+package day01;
 
 public class Helloworld {
     private String name;
