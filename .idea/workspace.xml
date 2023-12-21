@@ -5,33 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0647f61-df79-4160-994c-686cc9d878b9" name="Changes" comment="comit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/autowiring/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/baitapday2/MainApp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/baitapday2/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/baitapday2/StudentController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/baitapday2/StudentRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/baitapday2/StudentRepositoryImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/baitapday2/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beanslifecycle/BeansLifeCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beanslifecycle/BeansLifeCycleAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beanslifecycle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beanslifecycle/MainAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dependencyinjection/AccountServiceConstructorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dependencyinjection/AccountServiceSetterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dependencyinjection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dependencyinjection/MainSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scopes/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scopes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/autowiring/beans.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/baitapday2xml/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/beanscopes/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/beanslifecycle/BeanLifeCycleAnnotation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/beanslifecycle/BeansLifeCycle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dependencyinjection/Constructer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dependencyinjection/Setter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/scopes/beans.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702527754353</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="comit">
+      <option name="closed" value="true" />
+      <created>1702897312601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702897312601</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
